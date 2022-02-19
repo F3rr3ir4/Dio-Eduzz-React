@@ -1,3 +1,0 @@
-criar projetos react
-
-npx create-react-app dio-eduzz-react
